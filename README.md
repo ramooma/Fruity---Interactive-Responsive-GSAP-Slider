@@ -23,7 +23,6 @@ It showcases the ability to build high-end, creative user interfaces with custom
 [Click here to view the live slider](#) *(بتقدر تفعل له GitHub Pages وتحط الرابط هون)*
 
 ## 🖥️ Preview
-*(خذ لقطة شاشة متحركة GIF أو صورة عادية وحطها هون)*
 <img width="2535" height="1299" alt="Screenshot 2026-05-21 132451" src="https://github.com/user-attachments/assets/6c355f7a-5744-4cba-856a-2ba7969479e7" />
 <img width="2535" height="1297" alt="Screenshot 2026-05-21 132441" src="https://github.com/user-attachments/assets/9eca2e79-c6ca-47fb-837a-f755fd43799c" />
 <img width="2542" height="1299" alt="Screenshot 2026-05-21 132426" src="https://github.com/user-attachments/assets/3f9ad63a-cd02-4ed7-a41f-84f076be44fc" />
