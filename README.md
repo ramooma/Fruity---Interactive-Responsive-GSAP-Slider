@@ -20,7 +20,7 @@ It showcases the ability to build high-end, creative user interfaces with custom
 - **Concepts:** Creative Web Design, UI/UX Micro-interactions, Responsive Web Design (RWD).
 
 ## 🌐 Live Demo
-[Click here to view the live slider](#) *(بتقدر تفعل له GitHub Pages وتحط الرابط هون)*
+(https://ramooma.github.io/Fruity---Interactive-Responsive-GSAP-Slider/)
 
 ## 🖥️ Preview
 <img width="2535" height="1299" alt="Screenshot 2026-05-21 132451" src="https://github.com/user-attachments/assets/6c355f7a-5744-4cba-856a-2ba7969479e7" />
